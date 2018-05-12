@@ -1,0 +1,37 @@
+_repo: Dream-Days_35187
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Parrish, Maxfield
+    birthdate: 1870
+    deathdate: 1966
+    gutenberg_agent_id: '9605'
+    url: http://www.gutenberg.org/2009/agents/9605
+    wikipedia: http://en.wikipedia.org/wiki/Maxfield_Parrish
+covers:
+- cover_type: archival
+  image_path: 35187-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Grahame, Kenneth
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '153'
+    url: http://www.gutenberg.org/2009/agents/153
+    wikipedia: http://en.wikipedia.org/wiki/Kenneth_Grahame
+description: 'Sequel to The Golden Age, #32501.'
+gutenberg_issued: '2011-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35187'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcsh 'Country life -- Fiction'
+- !lcc 'PR'
+title: Dream Days
+url: http://www.gutenberg.org/ebooks/35187
