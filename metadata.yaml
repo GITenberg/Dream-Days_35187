@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/153
     wikipedia: http://en.wikipedia.org/wiki/Kenneth_Grahame
 description: 'Sequel to The Golden Age, #32501.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35187#Dream-Days
 gutenberg_issued: '2011-02-06'
 gutenberg_type: Text
 identifiers:
